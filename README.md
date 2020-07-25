@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="https://github.com/marlon-developer/bmi-calculator/blob/master/src/assets/Screenshot.jpg" width="100%">
+  <img alt="Frontend" src="https://github.com/marlon-developer/bmi-calculator/blob/master/assets/Screen.jpg" width="30%" height="100%">
 </p>
 
 ## :scroll: Como Usar
@@ -35,7 +35,7 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Javascript](https://devdocs.io/javascript/)
-- [React](https://reactnative.dev)
+- [React Native](https://reactnative.dev)
 
 ## :books: Projeto
 
