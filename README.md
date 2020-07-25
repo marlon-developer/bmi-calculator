@@ -1,5 +1,5 @@
 <h1 align="center">
-  Projeto de Estudo sobre JS React Native
+  Calculadora de IMC utilizando JS e React Native
 </h1>
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/marlon-developer/bmi-calculator">
